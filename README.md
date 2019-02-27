@@ -1,6 +1,8 @@
 # poc2
 Proof of Concept 2
 
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/cclp-project/poc2.png?columns=all)](https://waffle.io/cclp-project/poc2?utm_source=badge)
+
 The objective of this PoC is to discover potencial issues with the fiat backed token deployed on Mainnet.
 
 ## Token information
